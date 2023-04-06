@@ -1,6 +1,6 @@
 {
     "version": "1.20",
-    "update": "https://github.com/testuserov/scriptsettings/blob/main/atools.luac?raw=true",
+    "update": "", //https://github.com/testuserov/scriptsettings/blob/main/atools.luac?raw=true",
     "songs": "https://github.com/testuserov/scriptsettings/blob/main/songs",
-    "songs_list": "{ \"1\", \"2\", \"3\", \"4\" }"
+    "songs_list": { "1", "2", "3", "4" }
 }
