@@ -9,9 +9,22 @@
         "4"
     ],
     "libs": {
-        "vector3d.lua": "",
-        "matrix3x3.lua": "",
-        "bitex.lua": "",
+        "vector3d.lua": "https://github.com/testuserov/scriptsettings/blob/main/libs/vector3d.lua",
+        "matrix3x3.lua": "https://github.com/testuserov/scriptsettings/blob/main/libs/matrix3x3.lua",
+        "bitex.lua": "https://github.com/testuserov/scriptsettings/blob/main/libs/bitex.lua",
+        "encoding.lua": "https://github.com/testuserov/scriptsettings/blob/main/libs/encoding.lua",
+        "lfs.dll": "https://github.com/testuserov/scriptsettings/blob/main/libs/lfs.dll",
+        "fAwesome6_solid.lua": "https://github.com/testuserov/scriptsettings/blob/main/libs/fAwesome6_solid.lua",
+        "bass.lua": "https://github.com/testuserov/scriptsettings/blob/main/libs/bass.lua",
+        "mimtoasts.lua": "https://github.com/testuserov/scriptsettings/blob/main/libs/mimtoasts.lua",
+        "sampfuncs.lua": "https://github.com/testuserov/scriptsettings/blob/main/libs/sampfuncs.lua",
+        "iconv.dll": "https://github.com/testuserov/scriptsettings/blob/main/libs/iconv.dll",
+        "base64.dll": "https://github.com/testuserov/scriptsettings/blob/main/libs/base64.dll",
+        "socket.lua": "https://github.com/testuserov/scriptsettings/blob/main/libs/socket.lua",
+        "md5.lua": "https://github.com/testuserov/scriptsettings/blob/main/libs/md5.lua",
+        "cjson.dll": "https://github.com/testuserov/scriptsettings/blob/main/libs/cjson.dll",
+        "ssl.dll": "https://github.com/testuserov/scriptsettings/blob/main/libs/ssl.dll",
+        "ssl.lua": "https://github.com/testuserov/scriptsettings/blob/main/libs/ssl.lua",
         "samp": {
             "samp\\events\\": {
                 "samp\\events\\bitstream_io.lua": "",
@@ -30,46 +43,28 @@
             "MoonMonet\\moonmonet_rs.dll": "https://github.com/testuserov/scriptsettings/blob/main/libs/MoonMonet/moonmonet_rs.dll"
         },
         "mimgui": {
-            "mimgui\\cdefs.lua": "",
-            "mimgui\\cimguidx9.dll": "",
-            "mimgui\\dx9.lua": "",
-            "mimgui\\imgui.lua": "",
-            "mimgui\\init.lua": ""
+            "mimgui\\cdefs.lua": "https://github.com/testuserov/scriptsettings/blob/main/libs/mimgui/cdefs.lua",
+            "mimgui\\cimguidx9.dll": "https://github.com/testuserov/scriptsettings/blob/main/libs/mimgui/cimguidx9.dll",
+            "mimgui\\dx9.lua": "https://github.com/testuserov/scriptsettings/blob/main/libs/mimgui/dx9.lua",
+            "mimgui\\imgui.lua": "https://github.com/testuserov/scriptsettings/blob/main/libs/mimgui/imgui.lua",
+            "mimgui\\init.lua": "https://github.com/testuserov/scriptsettings/blob/main/libs/mimgui/init.lua"
         },
-        "encoding.lua": "",
-        "lfs.dll": "",
-        "fAwesome6_solid.lua": "",
-        "bass.lua": "",
-        "mimtoasts.lua": "",
-        "sampfuncs.lua": "",
-        "iconv.dll": "",
-        "iconv": {
-            "iconv\\COPYING-libiconv": "",
-            "iconv\\README-libiconv": "",
-            "iconv\\README-lua-iconv": ""
-        },
-        "base64.dll": "",
         "xml": {
-            "xml\\core.dll": "",
-            "xml\\init.lua": "",
-            "xml\\Parser.lua": ""
+            "xml\\core.dll": "https://github.com/testuserov/scriptsettings/blob/main/libs/xml/core.dll",
+            "xml\\init.lua": "https://github.com/testuserov/scriptsettings/blob/main/libs/xml/init.lua",
+            "xml\\Parser.lua": "https://github.com/testuserov/scriptsettings/blob/main/libs/xml/Parser.lua"
         },
-        "socket.lua": "",
         "socket": {
-            "socket\\core.dll": "",
-            "socket\\ftp.lua": "",
-            "socket\\headers.lua": "",
-            "socket\\http.lua": "",
-            "socket\\smtp.lua": "",
-            "socket\\tp.lua": "",
-            "socket\\url.lua": ""
+            "socket\\core.dll": "https://github.com/testuserov/scriptsettings/blob/main/libs/socket/core.dll",
+            "socket\\ftp.lua": "https://github.com/testuserov/scriptsettings/blob/main/libs/socket/ftp.lua",
+            "socket\\headers.lua": "https://github.com/testuserov/scriptsettings/blob/main/libs/socket/headers.lua",
+            "socket\\http.lua": "https://github.com/testuserov/scriptsettings/blob/main/libs/socket/http.lua",
+            "socket\\smtp.lua": "https://github.com/testuserov/scriptsettings/blob/main/libs/socket/smtp.lua",
+            "socket\\tp.lua": "https://github.com/testuserov/scriptsettings/blob/main/libs/socket/tp.lua",
+            "socket\\url.lua": "https://github.com/testuserov/scriptsettings/blob/main/libs/socket/url.lua"
         },
         "md5": {
-            "md5\\core.dll": ""
-        },
-        "md5.lua": "",
-        "cjson.dll": "",
-        "ssl.dll": "",
-        "ssl.lua": ""
+            "md5\\core.dll": "https://github.com/testuserov/scriptsettings/blob/main/libs/md5/core.dll"
+        }
     }
 }
