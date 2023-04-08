@@ -9,14 +9,14 @@
         "4"
     ],
     "libs": {
-        "Vector3D" = {
+        "Vector3D": {
         },
-        "bit" = {
+        "bit": {
         },
-        "bitex" = [
-        ],
-        "memory" = [
-        ],
+        "bitex": {
+        },
+        "memory": {
+        },
         "SAMP.Lua": {
             "samp\\events\\": {
                 "samp\\events\\bitstream_io.lua": "asd",
@@ -30,21 +30,21 @@
             "samp\\raknet.lua": "asd",
             "samp\\synchronization.lua": "asd"
         },
-        "ffi" = [
-        ],
-        "MoonMonet" = [
-        ],
-        "mimgui" = [
-        ],
-        "encoding" = [
-        ],
-        "lfs" = [
-        ],
-        "fAwesome6_solid" = [
-        ],
-        "bass" = [
-        ],
-        "mimtoasts" = [
-        ]
+        "ffi": {
+        },
+        "MoonMonet": {
+        },
+        "mimgui": {
+        },
+        "encoding": {
+        },
+        "lfs": {
+        },
+        "fAwesome6_solid": {
+        },
+        "bass": {
+        },
+        "mimtoasts": {
+        }
     }
 }
