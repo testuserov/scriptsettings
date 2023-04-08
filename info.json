@@ -26,8 +26,8 @@
             "samp\\synchronization.lua": ""
         },
         "MoonMonet": {
-            "MoonMonet\\init.lua": "",
-            "MoonMonet\\moonmonet_rs.dll": ""
+            "MoonMonet\\init.lua": "https://github.com/testuserov/scriptsettings/blob/main/libs/MoonMonet/init.lua",
+            "MoonMonet\\moonmonet_rs.dll": "https://github.com/testuserov/scriptsettings/blob/main/libs/MoonMonet/moonmonet_rs.dll"
         },
         "mimgui": {
             "mimgui\\cdefs.lua": "",
