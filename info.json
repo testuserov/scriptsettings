@@ -14,6 +14,7 @@
         "bit": {
         },
         "bitex": {
+            "bitex.lua": ""
         },
         "memory": {
         },
@@ -30,9 +31,9 @@
             "samp\\raknet.lua": "",
             "samp\\synchronization.lua": ""
         },
-        "ffi": {
-        },
         "MoonMonet": {
+            "MoonMonet\\init.lua": "",
+            "MoonMonet\\moonmonet_rs.dll": ""
         },
         "mimgui": {
             "mimgui\\cdefs.lua": "",
@@ -45,12 +46,16 @@
         "encoding": {
         },
         "lfs": {
+            "lfs.dll": ""
         },
         "fAwesome6_solid": {
+            "fAwesome6_solid.lua": ""
         },
         "bass": {
+            "bass.lua": ""
         },
         "mimtoasts": {
+            "mimtoasts.lua": ""
         }
     }
 }
