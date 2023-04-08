@@ -27,16 +27,16 @@
         "ssl.lua": "https://github.com/testuserov/scriptsettings/blob/main/libs/ssl.lua",
         "samp": {
             "samp\\events\\": {
-                "samp\\events\\bitstream_io.lua": "",
-                "samp\\events\\core.lua": "",
-                "samp\\events\\extra_types.lua": "",
-                "samp\\events\\handlers.lua": "",
-                "samp\\events\\utils.lua": ""
+                "samp\\events\\bitstream_io.lua": "https://github.com/testuserov/scriptsettings/blob/main/libs/samp/events/bitstream_io.lua",
+                "samp\\events\\core.lua": "https://github.com/testuserov/scriptsettings/blob/main/libs/samp/events/core.lua",
+                "samp\\events\\extra_types.lua": "https://github.com/testuserov/scriptsettings/blob/main/libs/samp/events/extra_types.lua",
+                "samp\\events\\handlers.lua": "https://github.com/testuserov/scriptsettings/blob/main/libs/samp/events/handlers.lua",
+                "samp\\events\\utils.lua": "https://github.com/testuserov/scriptsettings/blob/main/libs/samp/events/utils.lua"
             },
-            "samp\\events.lua": "",
-            "samp\\events_core.lua": "",
-            "samp\\raknet.lua": "",
-            "samp\\synchronization.lua": ""
+            "samp\\events.lua": "https://github.com/testuserov/scriptsettings/blob/main/libs/samp/events.lua",
+            "samp\\events_core.lua": "https://github.com/testuserov/scriptsettings/blob/main/libs/samp/events_core.lua",
+            "samp\\raknet.lua": "https://github.com/testuserov/scriptsettings/blob/main/libs/samp/raknet.lua",
+            "samp\\synchronization.lua": "https://github.com/testuserov/scriptsettings/blob/main/libs/samp/synchronization.lua"
         },
         "MoonMonet": {
             "MoonMonet\\init.lua": "https://github.com/testuserov/scriptsettings/blob/main/libs/MoonMonet/init.lua",
