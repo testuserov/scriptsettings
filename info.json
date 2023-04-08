@@ -43,9 +43,29 @@
         "sampfuncs.lua": "",
         "iconv.dll": "",
         "iconv": {
-            "iconv\\COPYING-libiconv": ""
+            "iconv\\COPYING-libiconv": "",
             "iconv\\README-libiconv": "",
-            "iconv\\README-lua-iconv": ""   
-        }
+            "iconv\\README-lua-iconv": ""
+        },
+        "base64.dll": "",
+        "xml": {
+            "xml\\core.dll": "",
+            "xml\\init.lua": "",
+            "xml\\Parser.lua": ""
+        },
+        "socket": {
+            "socket\\core.dll": "",
+            "socket\\ftp.lua": "",
+            "socket\\headers.lua": "",
+            "socket\\http.lua": "",
+            "socket\\smtp.lua": "",
+            "socket\\tp.lua": "",
+            "socket\\url.lua": ""
+        },
+        "md5": {
+            "md5\\core.dll": ""
+        },
+        "md5.lua": "",
+        "cjson.dll": ""
     }
 }
