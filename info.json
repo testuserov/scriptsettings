@@ -9,12 +9,8 @@
         "4"
     ],
     "libs": {
-        "Vector3D": {
-            "vector3d.lua": ""
-        },
-        "bitex": {
-            "bitex.lua": ""
-        },
+        "vector3d.lua": "",
+        "bitex.lua": "",
         "SAMP.Lua": {
             "samp\\events\\": {
                 "samp\\events\\bitstream_io.lua": "",
@@ -34,26 +30,22 @@
         },
         "mimgui": {
             "mimgui\\cdefs.lua": "",
-            "mimgui\\cimgui_dx9.dll": "",
             "mimgui\\cimguidx9.dll": "",
             "mimgui\\dx9.lua": "",
             "mimgui\\imgui.lua": "",
             "mimgui\\init.lua": ""
         },
-        "encoding": {
-            "encoding.lua": ""
-        },
-        "lfs": {
-            "lfs.dll": ""
-        },
-        "fAwesome6_solid": {
-            "fAwesome6_solid.lua": ""
-        },
-        "bass": {
-            "bass.lua": ""
-        },
-        "mimtoasts": {
-            "mimtoasts.lua": ""
+        "encoding.lua": "",
+        "lfs.dll": "",
+        "fAwesome6_solid.lua": "",
+        "bass.lua": "",
+        "mimtoasts.lua": "",
+        "sampfuncs.lua": "",
+        "iconv.dll": "",
+        "iconv": {
+            "iconv\\COPYING-libiconv": ""
+            "iconv\\README-libiconv": "",
+            "iconv\\README-lua-iconv": ""   
         }
     }
 }
