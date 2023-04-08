@@ -10,13 +10,10 @@
     ],
     "libs": {
         "Vector3D": {
-        },
-        "bit": {
+            "vector3d.lua": ""
         },
         "bitex": {
             "bitex.lua": ""
-        },
-        "memory": {
         },
         "SAMP.Lua": {
             "samp\\events\\": {
@@ -44,6 +41,7 @@
             "mimgui\\init.lua": ""
         },
         "encoding": {
+            "encoding.lua": ""
         },
         "lfs": {
             "lfs.dll": ""
