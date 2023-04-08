@@ -19,22 +19,28 @@
         },
         "SAMP.Lua": {
             "samp\\events\\": {
-                "samp\\events\\bitstream_io.lua": "asd",
-                "samp\\events\\core.lua": "dsa",
-                "samp\\events\\extra_types.lua": "asd",
-                "samp\\events\\handlers.lua": "dsa",
-                "samp\\events\\utils.lua": "asd"
+                "samp\\events\\bitstream_io.lua": "",
+                "samp\\events\\core.lua": "",
+                "samp\\events\\extra_types.lua": "",
+                "samp\\events\\handlers.lua": "",
+                "samp\\events\\utils.lua": ""
             },
-            "samp\\events.lua": "asd",
-            "samp\\events_core.lua": "asd",
-            "samp\\raknet.lua": "asd",
-            "samp\\synchronization.lua": "asd"
+            "samp\\events.lua": "",
+            "samp\\events_core.lua": "",
+            "samp\\raknet.lua": "",
+            "samp\\synchronization.lua": ""
         },
         "ffi": {
         },
         "MoonMonet": {
         },
         "mimgui": {
+            "mimgui\\cdefs.lua": "",
+            "mimgui\\cimgui_dx9.dll": "",
+            "mimgui\\cimguidx9.dll": "",
+            "mimgui\\dx9.lua": "",
+            "mimgui\\imgui.lua": "",
+            "mimgui\\init.lua": ""
         },
         "encoding": {
         },
