@@ -7,5 +7,44 @@
         "2",
         "3",
         "4"
+    ],
+    "libs": [
+        "Vector3D" = [
+        ],
+        "bit" = [
+        ],
+        "bitex" = [
+        ],
+        "memory" = [
+        ],
+        "SAMP.Lua" = [
+            "samp\\events\\" = [
+                "samp\\events\\bitstream_io.lua" = "",
+                "samp\\events\\core.lua" = "",
+                "samp\\events\\extra_types.lua" = "",
+                "samp\\events\\handlers.lua" = "",
+                "samp\\events\\utils.lua" = ""
+            ],
+            "samp\\events.lua" = "",
+            "samp\\events_core.lua" = "",
+            "samp\\raknet.lua" = "",
+            "samp\\synchronization.lua" = ""
+        ],
+        "ffi" = [
+        ],
+        "MoonMonet" = [
+        ],
+        "mimgui" = [
+        ],
+        "encoding" = [
+        ],
+        "lfs" = [
+        ],
+        "fAwesome6_solid" = [
+        ],
+        "bass" = [
+        ],
+        "mimtoasts" = [
+        ]
     ]
 }
