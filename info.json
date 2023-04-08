@@ -11,7 +11,7 @@
     "libs": {
         "vector3d.lua": "",
         "bitex.lua": "",
-        "SAMP.Lua": {
+        "samp": {
             "samp\\events\\": {
                 "samp\\events\\bitstream_io.lua": "",
                 "samp\\events\\core.lua": "",
