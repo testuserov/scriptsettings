@@ -17,19 +17,19 @@
         ],
         "memory" = [
         ],
-        "SAMP.Lua" = [
-            "samp\\events\\" = [
+        "SAMP.Lua" = {
+            "samp\\events\\" = {
                 "samp\\events\\bitstream_io.lua" = "",
                 "samp\\events\\core.lua" = "",
                 "samp\\events\\extra_types.lua" = "",
                 "samp\\events\\handlers.lua" = "",
                 "samp\\events\\utils.lua" = ""
-            ],
+            },
             "samp\\events.lua" = "",
             "samp\\events_core.lua" = "",
             "samp\\raknet.lua" = "",
             "samp\\synchronization.lua" = ""
-        ],
+        },
         "ffi" = [
         ],
         "MoonMonet" = [
