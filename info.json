@@ -67,6 +67,8 @@
             "md5\\core.dll": ""
         },
         "md5.lua": "",
-        "cjson.dll": ""
+        "cjson.dll": "",
+        "ssl.dll": "",
+        "ssl.lua": ""
     }
 }
