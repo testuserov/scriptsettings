@@ -8,11 +8,11 @@
         "3",
         "4"
     ],
-    "libs": [
-        "Vector3D" = [
-        ],
-        "bit" = [
-        ],
+    "libs": {
+        "Vector3D" = {
+        },
+        "bit" = {
+        },
         "bitex" = [
         ],
         "memory" = [
@@ -46,5 +46,5 @@
         ],
         "mimtoasts" = [
         ]
-    ]
+    }
 }
