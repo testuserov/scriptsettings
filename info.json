@@ -53,6 +53,7 @@
             "xml\\init.lua": "",
             "xml\\Parser.lua": ""
         },
+        "socket.lua": "",
         "socket": {
             "socket\\core.dll": "",
             "socket\\ftp.lua": "",
