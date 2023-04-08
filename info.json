@@ -10,6 +10,7 @@
     ],
     "libs": {
         "vector3d.lua": "",
+        "matrix3x3.lua": "",
         "bitex.lua": "",
         "samp": {
             "samp\\events\\": {
