@@ -49,7 +49,7 @@ EXPORTS = {
 }
 
 local newFrame = imgui.OnFrame(
-    function() return #list > 0 end,
+    function() return #list > 0 and not isGamePaused() end,
     function(self)
         self.HideCursor = true
         local resX, resY = getScreenResolution()
