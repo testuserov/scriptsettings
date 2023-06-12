@@ -25,6 +25,8 @@
         "cjson.dll": "https://github.com/testuserov/scriptsettings/blob/main/libs/cjson.dll",
         "ssl.dll": "https://github.com/testuserov/scriptsettings/blob/main/libs/ssl.dll",
         "ssl.lua": "https://github.com/testuserov/scriptsettings/blob/main/libs/ssl.lua",
+        "rkeys.lua": "https://github.com/testuserov/scriptsettings/blob/main/libs/rkeys.lua",
+        "mimgui_addons.lua": "https://github.com/testuserov/scriptsettings/blob/main/libs/mimgui_addons.lua",
         "samp": {
             "samp\\events\\": {
                 "samp\\events\\bitstream_io.lua": "https://github.com/testuserov/scriptsettings/blob/main/libs/samp/events/bitstream_io.lua",
