@@ -51,10 +51,6 @@
             "mimgui\\imgui.lua": "https://github.com/testuserov/scriptsettings/blob/main/libs/mimgui/imgui.lua",
             "mimgui\\init.lua": "https://github.com/testuserov/scriptsettings/blob/main/libs/mimgui/init.lua"
         },
-        "mimgui_blur": {
-            "mimgui_blur\\init.lua": "https://github.com/testuserov/scriptsettings/blob/main/libs/mimgui_blur/init.lua",
-            "mimgui_blur\\mimgui_blur_lib.dll": "https://github.com/testuserov/scriptsettings/blob/main/libs/mimgui_blur/mimgui_blur_lib.dll"
-        },
         "xml": {
             "xml\\core.dll": "https://github.com/testuserov/scriptsettings/blob/main/libs/xml/core.dll",
             "xml\\init.lua": "https://github.com/testuserov/scriptsettings/blob/main/libs/xml/init.lua",
