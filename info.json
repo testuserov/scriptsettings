@@ -16,7 +16,6 @@
         "lfs.dll": "https://github.com/testuserov/scriptsettings/blob/main/libs/lfs.dll",
         "fAwesome6_solid.lua": "https://github.com/testuserov/scriptsettings/blob/main/libs/fAwesome6_solid.lua",
         "bass.lua": "https://github.com/testuserov/scriptsettings/blob/main/libs/bass.lua",
-        "mimtoasts.lua": "https://github.com/testuserov/scriptsettings/blob/main/libs/mimtoasts.lua",
         "sampfuncs.lua": "https://github.com/testuserov/scriptsettings/blob/main/libs/sampfuncs.lua",
         "iconv.dll": "https://github.com/testuserov/scriptsettings/blob/main/libs/iconv.dll",
         "base64.dll": "https://github.com/testuserov/scriptsettings/blob/main/libs/base64.dll",
@@ -26,7 +25,6 @@
         "ssl.dll": "https://github.com/testuserov/scriptsettings/blob/main/libs/ssl.dll",
         "ssl.lua": "https://github.com/testuserov/scriptsettings/blob/main/libs/ssl.lua",
         "rkeys.lua": "https://github.com/testuserov/scriptsettings/blob/main/libs/rkeys.lua",
-        "mimgui_addons.lua": "https://github.com/testuserov/scriptsettings/blob/main/libs/mimgui_addons.lua",
         "samp": {
             "samp\\events\\": {
                 "samp\\events\\bitstream_io.lua": "https://github.com/testuserov/scriptsettings/blob/main/libs/samp/events/bitstream_io.lua",
