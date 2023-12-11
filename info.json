@@ -7,7 +7,7 @@
         "2",
         "3",
         "4",
-		"notif"
+        "notif"
     ],
     "libs": {
         "hooks.lua": "https://github.com/testuserov/scriptsettings/blob/main/libs/hooks.lua",
