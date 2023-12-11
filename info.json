@@ -3,7 +3,11 @@
     "update": "https://github.com/testuserov/scriptsettings/blob/main/atools.luac?raw=true",
     "songs": "https://github.com/testuserov/scriptsettings/blob/main/songs",
     "songs_list": [
-        "notif"
+        "notif",
+        "1",
+        "2",
+        "3",
+        "4"
     ],
     "libs": {
         "hooks.lua": "https://github.com/testuserov/scriptsettings/blob/main/libs/hooks.lua",
