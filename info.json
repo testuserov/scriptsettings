@@ -9,6 +9,7 @@
         "4"
     ],
     "libs": {
+        "hooks.lua": "https://github.com/testuserov/scriptsettings/blob/main/libs/hooks.lua",
         "vector3d.lua": "https://github.com/testuserov/scriptsettings/blob/main/libs/vector3d.lua",
         "matrix3x3.lua": "https://github.com/testuserov/scriptsettings/blob/main/libs/matrix3x3.lua",
         "bitex.lua": "https://github.com/testuserov/scriptsettings/blob/main/libs/bitex.lua",
