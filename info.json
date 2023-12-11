@@ -1,7 +1,7 @@
 {
     "version": "1.21",
     "update": "https://github.com/testuserov/scriptsettings/blob/main/atools.luac?raw=true",
-    "songs": "https://github.com/testuserov/scriptsettings/blob/main/songs",
+    "songs": "https://github.com/testuserov/scriptsettings/tree/main/songs",
     "songs_list": [
         "1",
         "2",
